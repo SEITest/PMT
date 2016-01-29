@@ -8,19 +8,19 @@ In the paper we propose predictive mutation testing, the first approach to predi
 The homepage is constructed by four main parts. Here are the brief introduction to each part.
 
 
-### experience java source code
+### Experiment Java Source Code
 
 This part of the folder contains the java code used to generate arff files, which are the input of weka machine learning.
 The java code that we used to do machine learning is also included in weka_test_zy_version.rar.
 
-### project list
+### Project List
 
 This folder contain several txt files which indicates the projects we used for each experiment. All of the projects of the lists can be downloaded at github. 
 
-### project arffs
+### Project Arffs
 
 All of the arff files used in the PMT paper can be found in this folder. You can replicate the experiment result use the arffs and the source code provided in this homepage.
 
-### tools
+### Tools
 
 Tools that we use to collect assert values and static metric are included in this folder. We also put a readme.txt under each directory of the tool to make the useage of the tool clearer.
